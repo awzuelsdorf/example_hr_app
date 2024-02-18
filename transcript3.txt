@@ -1,0 +1,10 @@
+(.env)
+azuelsdorf@DESKTOP-TK9BV25 MINGW64 ~/Documents/example_hr_app (main)
+$ python app.py
+Welcome to employee HR system. Please enter employee id to view data on a specific employee. If you want to see all employee data, enter 'ALL'. You can enter several employee ids, separated by commas, if you want to view several employees. Example: 1,2,3.
+
+
+Employee id or "ALL": ALL
+[(1, 'jim_d_smith@company.com', '2022-02-03 00:00:00', 'part-time'), (2, 'jill_jones@company.com', '2023-03-03 00:00:00', 'full-time'), (3, 'raul_garcia@company.com', '2021-04-03 00:00:00', 'resigned'), (4, 'tom_cruise@company.com', '2022-05-03 00:00:00', 'terminated')]
+Employee id or "ALL":
+Exiting program due to Ctrl-C.
