@@ -1,5 +1,5 @@
 ## Overview ##
-This program allows one to see the information for a given employee, subset of employees, or all employees.
+This program allows one to see the information for a given employee, subset of employees, or all employees. *Note: this repository contains an intentional SQL injection as a teaching tool. Do NOT use this code for any production, development, or other non-educational purposes.*
 
 ## Supported Commands ##
 To view information for employees 1 and 2:
